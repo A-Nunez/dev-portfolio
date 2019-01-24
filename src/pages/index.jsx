@@ -109,10 +109,10 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I worked retail while teaching myself to code for over a year and a half. After a while, I was confident enough in my abilities to I began looking for ways to start a
+          I worked retail while teaching myself to code for over a year and a half. After a while, I was confident enough in my abilities to begin looking for ways to start a
           career in web development. That's when I enrolled and completed a full stack coding bootcamp where I learned how to build full stack web applications from start to finish.
-          Completing the program led to an internship which then led to being a contract worker for said company. I am currently doing freelance and contract work to gain more experience
-          in hope of landing a developer position at a company with a stellar reputation.
+          Completing the program led to an internship which then led to part time contract work for the same company. I am currently doing freelance and contract work to gain more experience
+          in hopes of landing a developer position at an awesome company with a stellar reputation.
         </AboutDesc>
       </About>
       <Contact offset={4}>
