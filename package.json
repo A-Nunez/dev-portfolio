@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-portfolio-cara",
-  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
-  "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "name": "anunez-portfolio",
+  "description": "Personal portfolio for the web developer, Armando Nunez",
+  "version": "1.0.0",
+  "author": "A-Nunez",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -28,9 +28,9 @@
     "typeface-open-sans": "^0.0.54"
   },
   "keywords": [
-    "gatsby",
-    "starter",
-    "portfolio"
+    "armando",
+    "nunez",
+    "developer"
   ],
   "scripts": {
     "dev": "gatsby develop -o",
@@ -52,11 +52,11 @@
     "prettier": "^1.15.3"
   },
   "repository": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "url": "https://github.com/A-Nunez/dev-portfolio",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
+    "url": "https://github.com/A-Nunez/dev-portfolio/issues"
   },
-  "homepage": "https://cara.lekoarts.de"
+  "homepage": "https://an-portfolio.netlify.com/"
 }
