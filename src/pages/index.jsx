@@ -105,7 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Armando Nunez Profile Picture" />
           <AboutSub>
-            22 year old San Diego native. Aside from coding, I spend most of my time either playing videogames, binging tv series, or hanging out with both my dogs and my dawgs.
+            22 year old San Diego native. Aside from coding, I spend most of my time either playing videogames, binging tv series, or hanging out with either my dogs or my dawgs.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
