@@ -78,18 +78,18 @@ const Index = () => (
             Multi-page website I built and maintain for AcciDent Pros, a San Diego Auto Collision Repair Shop.
           </ProjectCard>
           <ProjectCard
-            title="Near Earth Objects"
-            link="https://neo-nasa.herokuapp.com/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-          >
-            Fun web app that gathers and displays official asteroid data from NASA's API.
-          </ProjectCard>
-          <ProjectCard
             title="Big Game Tackle"
             link="https://bigtackleshop.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             E-commerce website specializing in big game fishing equipment built in Shopify.
+          </ProjectCard>
+          <ProjectCard
+            title="Near Earth Objects"
+            link="https://neo-nasa.herokuapp.com/"
+            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+          >
+            Fun web app that gathers and displays official asteroid data from NASA's API.
           </ProjectCard>
           <ProjectCard
             title="Innocreations"
