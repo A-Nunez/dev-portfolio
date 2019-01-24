@@ -1,2 +1,2 @@
 # dev-portfolio
-Web dev personal portfolio built using React in Gatsby.js and hosted on Netlify
+Personal web developer portfolio built using React in Gatsby.js and deployed on Netlify
