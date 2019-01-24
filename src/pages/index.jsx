@@ -75,7 +75,7 @@ const Index = () => (
             link="https://accidentpros.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            A website I built and currently maintain for AcciDent Pros, a San Diego Auto Collision Repair Shop.
+            Multi-page website I built and maintain for AcciDent Pros, a San Diego Auto Collision Repair Shop.
           </ProjectCard>
           <ProjectCard
             title="Near Earth Objects"
@@ -89,14 +89,14 @@ const Index = () => (
             link="https://bigtackleshop.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            An e-commerce website specializing in big game fishing built in Shopify.
+            E-commerce website specializing in big game fishing equipment built in Shopify.
           </ProjectCard>
           <ProjectCard
             title="Innocreations"
             link="https://innocreations.tv/"
             bg="linear-gradient(to right, #B218B2 0%, #bee5f4 100%)"
           >
-            An informational site with an option to book an appointment for local media producer, Innocreations.
+            Informational site with an option to book an appointment for local media producer, Innocreations.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
